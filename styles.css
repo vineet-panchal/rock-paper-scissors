@@ -1,0 +1,28 @@
+
+body {
+    display: flex;
+    place-items: center;
+    justify-content: center;
+    height: 100vh;
+    background-color: aqua;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+#gameDiv {
+    border: 10px solid;
+    padding: 10px;
+    border-radius: 25px;
+    text-align: center;
+    background-color: beige;
+}
+
+.choiceBtn {
+    line-height: 30px;
+    width: 150px;
+    border: 0;
+    cursor: pointer;
+    color: white;
+    font-size: 20px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    background-color: darkblue;
+}
